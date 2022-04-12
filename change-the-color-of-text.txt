@@ -1,0 +1,17 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Change color using style attribute  
+</Title>  
+</Head>  
+<Body> 
+  <h2 style="color:red;">CatPhotoApp</h2>  
+<p style="color :red;">  
+This page helps you to understand how to change the color of a text.  
+</p>  
+<p style="color :pink; ">  
+And, this section helps you to understand how to change text color using style attribute.   
+</p>  
+</Body>  
+</Html>  
